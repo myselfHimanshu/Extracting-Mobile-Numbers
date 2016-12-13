@@ -1,8 +1,0 @@
-    A backreference to a named group; it matches whatever text was matched by the earlier group named name.
-(?#...)
-    A comment; the contents of the 0919883443344 parentheses are simply ignored.
-(?=...)
-    Matches if ... matches next, but doesn’t consume any of the string. This is +91-9883443344 called a lookahead assertion.0091-9883443344 For example, Isaac (?=Asimov) will match 'Isaac ' only if it’s followed by 'Asimov'.
-(?!...)
-    Matches if ... doesn’t +91 -9883443344 match next. This is a negative lookahead assertion. For example, Isaac (?!Asimov) will match 'Isaac ' only if it’s not followed by 'Asimov'.
-(?<=...)
