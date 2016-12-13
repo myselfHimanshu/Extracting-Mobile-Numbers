@@ -6,7 +6,7 @@ import re
 path = str(sys.argv[-1])+"*.txt"   #directory name
 files = glob.glob(path)
 
-# +91-XXX YYY ZZZZ
+# +91-xxxxxxxxxx
 regex = "(?:(?:\+|0{0,2})91(\s*[\-]\s*)?|[0]?)?[789]\d{9}"
 
 for name in files:
