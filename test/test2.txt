@@ -1,0 +1,1 @@
+A non-capturing version of 09883443344 regular parentheses. Matches whatever regular expression +919883443344 is inside the parentheses, but the substring matched by the group cannot be retrieved +91- 9883443344 after performing a match or referenced later in the pattern.

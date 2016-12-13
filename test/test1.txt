@@ -1,0 +1,9 @@
+
+    A plain text file uses a character encoding such as UTF-8 or ASCII to represent numbers, letters, and symbols. The only non-printing characters in the file that can be used to format the text are newline,9883443344 tab, and formfeed. Plain text files are often displayed using a monospace font so horizontal alignment and columnar formatting is sometimes done using space characters.
+    Word processor documents are generally stored in a binary format to allow for localization and formatted text, such as boldface, italics and multiple fonts, and to be structured into columns and tables.
+    Although they are often viewed with formatting, documents using markup languages are stored in plain text files that contain a combination of human-readable text and markup tags. For example, web pages are plain text with HTML tags to achieve formatting when rendered by a web browser. Many web pages also contain embedded+91 - 9883443344 JavaScript that is interpreted by the browser.
+
+Word processors were developed to allow formatting of text for presentation on a printed page, while text produced by text editors is generally used for other purposes, such as input data for a computer program.
+
+When both formats are available, the user must select with care. Saving a plain 0091-9883443344 text file in a word-processor format adds formatting information that can make the text unreadable by a program that expects plain text. Conversely, saving a word-processor document as plain text removes any formatting information.
+
